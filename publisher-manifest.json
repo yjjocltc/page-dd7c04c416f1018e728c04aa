@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "465a2540fc1cf404a25e1b01",
+  "owner": "yjjocltc",
+  "repo": "page-dd7c04c416f1018e728c04aa",
+  "title": "88VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dd7c04c416f1018e728c04aa",
+      "a": "88VPN",
+      "b": "",
+      "entity": "88VPN",
+      "brand": "88VPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "28d55c7c4077a7978b652bbae4850c5a5dc274348755d099fcf6ce4a8ddd2322",
+      "content": {
+        "keyword1": "88VPN",
+        "keyword2": "",
+        "primary_entity": "88VPN",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "88VPN 把稳定的高速网络装进你的口袋。三条套餐线对应不同生活节奏，按月或按年选择，随时调整。",
+          "AI_DESCRIPTION": "88VPN 把稳定的高速网络装进你的口袋。三条套餐线对应不同生活节奏，按月或按年选择，随时调整。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {margin:0;padding:0;box-sizing:border-box}\nhtml {}\nbody {background:#F7F1E3;color:#2A0A12;font-family: ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height:1.65;letter-spacing:.01em}\na {color:inherit;text-decoration:none}\n\n/* 左侧竖排导航 */\n.nav-side {position:fixed;top:0;left:0;width:220px;height:100vh;background:#5B0E1F;color:#F7F1E3;padding:36px 24px;display:flex;flex-direction:column;justify-content:space-between;z-index:20}\n.nav-brand {font-size:22px;font-weight:800;letter-spacing:.05em}\n.nav-brand small {display:block;font-size:11px;font-weight:400;opacity:.7;margin-top:6px}\n.nav-list {list-style:none;margin-top:32px}\n.nav-list li {margin:14px 0}\n.nav-list a {font-size:14px;opacity:.82;transition:opacity .2s}\n.nav-list a:hover {opacity:1;text-decoration:underline}\n.nav-foot {font-size:11px;opacity:.6;line-height:1.8}\n\nmain {margin-left:220px}\n\n/* 首屏海报 */\n.hero {min-height:100vh;background:#5B0E1F;color:#F7F1E3;padding:80px 64px;display:flex;flex-direction:column;justify-content:center;position:relative}\n.hero-mark {font-size:clamp(96px, 22vw, 280px);font-weight:900;line-height:.88;letter-spacing:-.04em;margin-bottom:24px}\n.hero-mark span {display:block}\n.hero-mark .second {color:#E8C36A;margin-left:8vw}\n.hero-sub {font-size:18px;max-width:560px;opacity:.9;margin-top:20px}\n.hero-tags {margin-top:32px;display:flex;gap:12px;flex-wrap:wrap}\n.hero-tags span {border:1px solid #E8C36A;color:#E8C36A;padding:6px 14px;font-size:12px}\n\n/* 通用区块 */\n.section {padding:72px 64px}\n.section.alt {background:#EFE4CB}\n.section.dark {background:#5B0E1F;color:#F7F1E3}\n\nh2 {font-size:30px;font-weight:800;margin-bottom:14px;letter-spacing:-.01em}\nh2 .accent {color:#8B1538}\n.section.dark h2 .accent {color:#E8C36A}\n.lead {font-size:16px;opacity:.85;max-width:640px;margin-bottom:36px}\n\n/* 粗描边卡片 */\n.card-list {display:grid;grid-template-columns:repeat(auto-fit, minmax(260px, 1fr));gap:20px}\n.card {background:#F7F1E3;border:3px solid #2A0A12;padding:24px}\n.card h3 {font-size:18px;margin-bottom:8px}\n.card p {font-size:14px;opacity:.85}\n\n/* 套餐阶梯 */\n.plans-wrap {display:flex;flex-direction:column;gap:24px;max-width:780px}\n.plan {background:#F7F1E3;border:3px solid #2A0A12;padding:28px 32px;position:relative}\n.plan.featured {background:#8B1538;color:#F7F1E3;border-color:#E8C36A;margin-left:40px}\n.plan.team {margin-left:80px}\n.plan-head {display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:16px}\n.plan-name {font-size:22px;font-weight:800}\n.plan-price {font-size:26px;font-weight:800}\n.plan-price small {display:block;font-size:12px;font-weight:400;opacity:.8}\n.plan ul {list-style:none;margin-top:10px}\n.plan li {font-size:14px;padding:6px 0;border-top:1px dashed currentColor;opacity:.95}\n.plan-tag {position:absolute;top:-14px;right:24px;background:#E8C36A;color:#2A0A12;font-size:11px;font-weight:700;padding:4px 10px}\n\n/* FAQ 分组 */\n.faq-group {margin-bottom:28px}\n.faq-group h3 {font-size:18px;font-weight:800;margin-bottom:12px;color:#8B1538;padding-bottom:6px;border-bottom:2px solid #2A0A12}\n.faq-item {border:2px solid #2A0A12;padding:14px 18px;margin-bottom:10px;background:#F7F1E3}\n.faq-q {font-weight:700;font-size:15px;margin-bottom:6px}\n.faq-a {font-size:14px;opacity:.88}\n\n/* 使用步骤 */\n.steps {display:grid;grid-template-columns:repeat(auto-fit, minmax(220px,1fr));gap:18px}\n.step {border:3px solid #2A0A12;background:#F7F1E3;padding:24px}\n.step-num {font-size:40px;font-weight:900;color:#8B1538;line-height:1;margin-bottom:10px}\n\n/* 客户端 */\n.clients-grid {display:grid;grid-template-columns:repeat(auto-fit, minmax(180px,1fr));gap:16px}\n.client {border:3px solid #E8C36A;padding:20px}\n.client h3 {font-size:16px;margin-bottom:6px}\n.client p {font-size:13px;opacity:.85}\n.client .status {display:inline-block;font-size:11px;border:1px solid #E8C36A;padding:2px 8px;margin-top:10px}\n\nfooter {background:#2A0A12;color:#F7F1E3;padding:40px 64px;font-size:13px;opacity:.9}\nfooter p {margin-bottom:6px}\n\n@media (max-width:860px){\n  .nav-side{position:static;width:100%;height:auto;flex-direction:row;flex-wrap:wrap;align-items:center;padding:16px 20px;gap:12px}\n  .nav-list{display:flex;flex-wrap:wrap;margin-top:0;gap:10px}\n  .nav-list li{margin:0}\n  .nav-foot{display:none}\n  main{margin-left:0}\n  .hero,.section,footer{padding:40px 24px}\n  .hero-mark .second{margin-left:4vw}\n  .plan.featured,.plan.team{margin-left:0}\n}\n</style><nav class=\"nav-side\" aria-label=\"主导航\">\n  <div>\n    <div class=\"nav-brand\">88VPN<small>让家里的网，跟着你走</small></div>\n    <ul class=\"nav-list\">\n      <li><a href=\"#story\">认识我们</a></li>\n      <li><a href=\"#why\">为什么选</a></li>\n      <li><a href=\"#plans\">挑个套餐</a></li>\n      <li><a href=\"#start\">三步上手</a></li>\n      <li><a href=\"#clients\">客户端</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </div>\n  <div class=\"nav-foot\">\n    88VPN<br>\n    始于一杯咖啡的讨论\n  </div>\n</nav>\n\n<main>\n\n<section class=\"hero\" id=\"top\">\n  <div class=\"hero-mark\">\n    <span>88</span>\n    <span class=\"second\">VPN</span>\n  </div>\n  <p class=\"hero-sub\">把稳定的高速网络装进你的口袋。不管你是在楼下咖啡店还是出国出差，打开就是家里的感觉。三条套餐线对应不同生活节奏，想换就换。</p>\n  <div class=\"hero-tags\">\n    <span>月付灵活</span>\n    <span>多端同步</span>\n    <span>按年更划算</span>\n  </div>\n</section>\n\n<section class=\"section\" id=\"story\">\n  <h1>88VPN · 先聊<span class=\"accent\">两句</span></h1>\n  <p class=\"lead\">88VPN 不是大厂出身，也没有铺天盖地的广告。我们就是几个被各种断线折腾烦了的朋友，攒了一套自己用着顺手的方案，后来发现朋友们也想要，就正式做了起来。</p>\n  <p class=\"lead\">整套服务围绕一件简单的事：你点开开关，网就通；你关上，就回到本地。中间所有复杂的事，交给我们。</p>\n</section>\n\n<section class=\"section alt\" id=\"why\">\n  <h2>为什么<span class=\"accent\">值得一试</span></h2>\n  <p class=\"lead\">我们不敢说自己天下第一，但下面这几件事是真的花了心思。</p>\n  <div class=\"card-list\">\n    <article class=\"card\">\n      <h3>线路挑过才上架</h3>\n      <p>每条线路都经过一段时间的朋友内测，稳定了才会放进节点池。不稳定的老线路我们会悄悄下掉，不让你踩坑。</p>\n    </article>\n    <article class=\"card\">\n      <h3>套餐随生活走</h3>\n      <p>这阵子常看剧，就上流量多的；下阵子忙工作，就切回基础版。套餐按月随时可换，不绑死你。</p>\n    </article>\n    <article class=\"card\">\n      <h3>客服是真的人</h3>\n      <p>工单后台后面坐着的是我们自己，不是机器人。遇到问题直接说人话描述，我们会一条条看。</p>\n    </article>\n    <article class=\"card\">\n      <h3>多端一起用</h3>\n      <p>手机、平板、电脑同时挂着也没关系，每个套餐都有设备数额度，家里人也能一起蹭。</p>\n    </article>\n  </div>\n</section>\n\n<section class=\"section dark\" id=\"plans\">\n  <h2>挑个<span class=\"accent\">合适你的</span></h2>\n  <p class=\"lead\">三个套餐一个比一个实诚，按年付更省一些，想随时调整也完全没问题。</p>\n  <div class=\"plans-wrap\">\n\n    <article class=\"plan\">\n      <div class=\"plan-head\">\n        <div class=\"plan-name\">基础版</div>\n        <div class=\"plan-price\">¥15/月<small>按年付仅需 ¥150/年</small></div>\n      </div>\n      <ul>\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"plan featured\">\n      <div class=\"plan-tag\">朋友最常选</div>\n      <div class=\"plan-head\">\n        <div class=\"plan-name\">旗舰版</div>\n        <div class=\"plan-price\">¥35/月<small>按年付仅需 ¥350/年</small></div>\n      </div>\n      <ul>\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"plan team\">\n      <div class=\"plan-head\">\n        <div class=\"plan-name\">团队版</div>\n        <div class=\"plan-price\">¥85/月<small>按年付仅需 ¥850/年</small></div>\n      </div>\n      <ul>\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n\n  </div>\n</section>\n\n<section class=\"section\" id=\"start\">\n  <h2>三步<span class=\"accent\">上手</span></h2>\n  <p class=\"lead\">不用看说明书也能搞定，流程被我们砍到最短。</p>\n  <div class=\"steps\">\n    <article class=\"step\">\n      <div class=\"step-num\">01</div>\n      <h3>挑个套餐</h3>\n      <p>按你的使用频率选一个月付或年付，下单后会收到一封包含账号信息的邮件。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"step-num\">02</div>\n      <h3>装个客户端</h3>\n      <p>到你设备的商店搜 88VPN，或者用邮件里的下载地址。装好以后用账号登录。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"step-num\">03</div>\n      <h3>一键连接</h3>\n      <p>选一个离你近的节点，点连接。网通了之后想干啥都行，不用再管它。</p>\n    </article>\n  </div>\n</section>\n\n<section class=\"section alt\" id=\"clients\">\n  <h2>在哪<span class=\"accent\">能装</span></h2>\n  <p class=\"lead\">主流平台都覆盖了，装好以后账号通用，不用分开买。</p>\n  <div class=\"clients-grid\">\n    <article class=\"client\">\n      <h3>Windows</h3>\n      <p>支持 Windows 10 及以上系统，安装包轻量，开机自启可关。</p>\n      <span class=\"status\">已发布</span>\n    </article>\n    <article class=\"client\">\n      <h3>macOS</h3>\n      <p>适配 Intel 与 Apple Silicon，支持菜单栏快捷开关。</p>\n      <span class=\"status\">已发布</span>\n    </article>\n    <article class=\"client\">\n      <h3>Android</h3>\n      <p>Android 8 及以上，支持分应用代理，省电模式下也能稳定跑。</p>\n      <span class=\"status\">已发布</span>\n    </article>\n    <article class=\"client\">\n      <h3>iOS / iPadOS</h3>\n      <p>App Store 可搜到，适配 iPad 分屏，支持快捷指令切换节点。</p>\n      <span class=\"status\">已发布</span>\n    </article>\n  </div>\n</section>\n\n<section class=\"section\" id=\"faq\">\n  <h2>常被<span class=\"accent\">问到的</span></h2>\n  <p class=\"lead\">这里的问题都是工单里真有人问过的，答案也是我们一条条回过的。</p>\n\n  <div class=\"faq-group\">\n    <h3>关于套餐</h3>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">套餐之间能随时换吗？</div>\n      <div class=\"faq-a\">可以。你想升级或降级，在账户后台点一下就行，差价按剩余天数补或退，不会让你白花钱。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">月付和年付有什么区别？</div>\n      <div class=\"faq-a\">服务内容完全一样，年付只是把十二个月的钱一次性付了，价格上更便宜一些。不确定长期用的话，先月付完全没问题。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">流量用完了怎么办？</div>\n      <div class=\"faq-a\">套餐流量按月重置。如果月中用完了，可以单独加购流量包，或者直接升级到更高一档套餐，当月立刻生效。</div>\n    </div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于设备</h3>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">一个账号能几个人用？</div>\n      <div class=\"faq-a\">每套餐都有设备数上限，比如旗舰版是 5 台。同一账号在这些设备上同时登录没问题，超出会顶掉最早登录的那台。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">家里路由器能直接装吗？</div>\n      <div class=\"faq-a\">团队版支持企业定制路由，家用的话我们暂时没有官方路由器固件，但 OpenWrt 等平台可以手动配置，工单里可以要教程。</div>\n    </div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>关于售后</h3>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">客服多久回消息？</div>\n      <div class=\"faq-a\">基础版一般在 24 小时内，旗舰版和团队版走优先工单，通常两三个小时就有回音。深夜的问题第二天一早也会补上。</div>\n    </div>\n    <div class=\"faq-item\">\n      <div class=\"faq-q\">用着不满意能退吗？</div>\n      <div class=\"faq-a\">购买七天内、流量使用不超过 5GB 的话，可以联系工单申请退款，我们不会为难你。超过这个范围就需要具体看了。</div>\n    </div>\n  </div>\n</section>\n\n</main>\n\n<footer>\n  <p>88VPN — 让家里的网，跟着你走。</p>\n  <p>本页面内容仅供参考，具体服务以账户后台为准。使用前请遵守所在地区的相关法律法规。</p>\n  <p>© 88VPN</p>\n</footer>",
+          "hash": "cfacf61217b15be86059679061883615fa605d25b936c36031bc9de1ff2421c0",
+          "seo": {
+            "title": "88VPN — 让家里的网，跟着你走",
+            "keywords": "88VPN,网络加速,专线,流媒体解锁,多设备",
+            "description": "88VPN 把稳定的高速网络装进你的口袋。三条套餐线对应不同生活节奏，按月或按年选择，随时调整。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8977",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "trussdeck.cn",
+    "host": "p-13202283b4.trussdeck.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "babb75675a74f20722e5fd33f292ec04ac21a4ef464230a63799f12ba8f52891",
+    "sitemap.xml": "3ce8ea666be20d511fa04238249964fab0387442ea5dbe212c57f9e77e0ea72d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "569fee5a27bf71d387b4ee0b5b01122afa5bc86e4a0404ee3d00068fbc57176c",
+    "robots.txt": "94346391cc8e84b7d4b1d168e5526c733b35a54210547b81d2b8533aa93ac3c1",
+    "b98b52a4942c4a4d01c5cf4259d45687.txt": "6fb7d25f5a8c978c3db0f9c1616ef5de8a160ae334aa40d39ee29d1386963769"
+  },
+  "revision": "08dfc382e42dc215b17b8a920340405977dac84e761123e0f6c6014b4684ff29"
+}
